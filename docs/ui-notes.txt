@@ -1,0 +1,1 @@
+Notes related to UI flow and screen-level ideas created during the project.
